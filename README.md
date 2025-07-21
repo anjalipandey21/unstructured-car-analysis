@@ -45,7 +45,7 @@ This project explores user-generated discussions from Edmunds.com forums to unco
 ## 🚀 How to Run
 
 ```bash
-python assignment_1.py
+python assignment.py
 
 ---
 
