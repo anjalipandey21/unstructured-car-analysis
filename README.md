@@ -22,7 +22,7 @@ This project explores user-generated discussions from Edmunds.com forums to unco
 - **Lift ratios** revealed hidden relationships and co-mentions between competing brands.
 - **MDS visualizations** provided intuitive maps showing brand proximity in consumer minds.
 - **Car features** like performance, design, and reliability showed clear brand affinities.
-- **Aspirational brand analysis** highlighted which brand users most frequently expressed desire to own.
+- **Aspirational brand analysis** highlighted which brand users most frequently expressed a desire to own.
 
 ---
 
