@@ -37,7 +37,7 @@ This project explores user-generated discussions from Edmunds.com forums to unco
 ---
 
 ## 📂 Project Structure
-- `assignment_1.py`: Core script containing all scraping, data transformation, analysis, and plotting code.
+- Core script containing all scraping, data transformation, analysis, and plotting code.
 - `README.md`: Documentation and project summary.
 
 ---
