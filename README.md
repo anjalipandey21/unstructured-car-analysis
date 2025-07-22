@@ -3,6 +3,7 @@
 ## 📘 Project Overview
 This project explores user-generated discussions from Edmunds.com forums to uncover competitive insights in the entry-level luxury car market. Using web scraping, natural language processing (NLP), and statistical analysis, the goal was to identify brand perceptions, feature associations, and consumer aspirations.
 
+
 ---
 
 ## 🧠 What This Project Does
